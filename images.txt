@@ -1,1 +1,5 @@
-lobehub/lobe-chat
+haroldli/xiaoya-tvbox
+linuxserver/qbittorrent
+docker.io/library/nginx
+nyanmisaka/jellyfin
+xiaoyaliu/alist
