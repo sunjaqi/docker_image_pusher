@@ -1,2 +1,2 @@
-embyserver
-centos7
+emby/embyserver
+rpmbuild/centos7
