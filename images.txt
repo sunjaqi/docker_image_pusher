@@ -1,2 +1,2 @@
-emby/embyserver
-rpmbuild/centos7
+ubuntu
+mysql
