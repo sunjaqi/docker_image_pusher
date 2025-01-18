@@ -1,2 +1,2 @@
-ubuntu
-mysql
+redis
+mongo
