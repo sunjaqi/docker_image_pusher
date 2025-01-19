@@ -1,2 +1,1 @@
-redis
-mongo
+ubuntu server
