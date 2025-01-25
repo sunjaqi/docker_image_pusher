@@ -1,2 +1,2 @@
-library/Python
-Pycharm
+python
+pycharm
